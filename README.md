@@ -13,7 +13,7 @@
 </div>
  
 <br>
-## Foco, Força e Fé 
+## Foco, Força e Fé
  
 <div> 
  
