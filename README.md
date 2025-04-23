@@ -155,5 +155,3 @@ Eu me chamo jowallison Araujo , tenho 28 anos e sou natural do Rio de Janeiro. C
   />
   
 </p>
-
-<img src="https://raw.githubusercontent.com/gitUser/jowallison/jowallison/snake.svg" alt="Snake animation" />
